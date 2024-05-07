@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "Otunba",
   description: "Otunba is a modern banking platform for everyone",
   icons: {
-    icons: '/icons/logo.svg'
+    icon: '/icons/logo.svg'
   }
 };
 
